@@ -1,0 +1,1 @@
+kaggle competitions submit -c titanic -f titanic_final_result.csv -m "Bahut mehnat se copy paste kiya hoon"
